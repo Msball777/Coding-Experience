@@ -1,0 +1,16 @@
+move;Advance to Go. Collect $200.;Go;0
+give;Bank error in your favor. Collect $200;200
+take;Doctor's fees. Pay $50.;50
+give;From sale of stock you get $50;50
+jailFree;Get Out of Jail Free
+jail;Go to jail. Go directly to jail. Do not pass Go. Do not collect 200.
+give;Holiday Fund matures. Receive $100.;100
+give;Income tax refund. Collect $20.;20
+giveAll;It's your birthday. Collect $10 from every player.;10
+give;Life insurance matures. Collect $100.;100
+take;Hospital Fees. Pay $50.;50
+take;School fees. Pay $50.;50
+give;Receive $25 consultancy fee;25
+buildingPay;You are assessed for street repairs: Pay $40 per house and $115 per hotel you own.;40;115
+give;You have won second prize in a beauty context. Collect $10.;10
+give;You inherit $100;100

@@ -1,0 +1,40 @@
+go;200
+prop;Mediterranean Avenue;Brown;60;2;10;30;90;160;250;50
+card;0
+prop;Baltic Avenue;Brown;60;4;20;60;180;320;450;50
+tax;Income Tax;200
+rail;Reading Railroad;200;25;50;100;200
+prop;Oriental Avenue;Light Blue;100;6;30;90;270;400;550;50
+card;1
+prop;Vermont Avenue;Light Blue;100;6;30;90;270;400;550;50
+prop;Connecticut Avenue;Light Blue;120;8;40;100;300;450;600;50
+jail
+prop;St. Charles Place;Pink;140;10;50;150;450;625;750;100
+util;Electric Company;150;4;10
+prop;States Avenue;Pink;140;10;50;150;450;625;750;100
+prop;Virginia Avenue;Pink;160;12;60;180;500;700;900;100
+rail;Pennsylvania Railroad;200;25;50;100;200
+prop;St. James Place;Orange;180;14;70;200;550;750;950;100
+card;0
+prop;Tennessee Avenue;Orange;180;14;70;200;550;750;950;100
+prop;New York Avenue;Orange;200;16;80;220;600;800;1000;100
+free
+prop;Kentucky Avenue;Red;220;18;90;250;700;875;1050;150
+card;1
+prop;Indiana Avenue;Red;220;18;90;250;700;875;1050;150
+prop;Illinois Avenue;Red;240;20;100;300;750;925;1100;150
+rail;B & O Railroad;200;25;50;100;200
+prop;Atlantic Avenue;Yellow;260;22;110;330;800;975;1150;150
+prop;Ventnor Avenue;Yellow;260;22;110;330;800;975;1150;150
+util;Water Works;150;4;10
+prop;Marvin Gardens;Yellow;280;24;120;360;850;1025;1200;150
+police;
+prop;Pacific Avenue;Green;300;26;130;390;900;1100;1275;200
+prop;North Carolina Avenue;Green;300;26;130;390;900;1100;1275;200
+card;0
+prop;Pennsylvania Avenue;Green;320;28;150;450;1000;1200;1400;200
+rail;Short Line Railroad;200;25;50;100;200
+card;1
+prop;Park Place;Blue;350;35;175;500;1100;1300;1500;200
+tax;Luxury Tax;100
+prop;Boardwalk;Blue;400;50;200;600;1400;1700;2000;200

@@ -1,0 +1,17 @@
+move;Advance to Go. Collect $200.;Go;0
+move;Advance to Illinois Avenue. If you pass Go, Collect $200.;Illinois Avenue;0
+move;Advance to St. Charles Place. If you pass Go, Collect $200.;St. Charles Place;0
+move;Advance to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner the rent.;Utility;1
+move;Advance to nearest Railroad. If unowned, you may buy it from the Bank. If owned, pay the owner the rent.;Railroad;1
+move;Advance to nearest Railroad. If unowned, you may buy it from the Bank. If owned, pay the owner the rent.;Railroad;1
+give;Bank pays you dividend of $50;50
+jailFree;Get Out of Jail Free
+jail;Go to jail. Go directly to jail. Do not pass Go. Do not collect 200.
+buildingPay;Make general repairs on all your property: For each house pay $25, for each hotel pay $100.;25;100
+move;Take a trip to Reading Railroad. If you pass Go, collect $200.;Reading Railroad;0
+move;Take a walk on the Boardwalk.;Boardwalk;0
+takeAll;You have been elected chairman of the Board. Pay each player $50.;50
+give;Your building loan matures. Receive $150.;150
+
+
+
