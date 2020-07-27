@@ -1,0 +1,108 @@
+{
+	"prefix": "!MKT ",
+	"token": "",
+	"frameColors": {
+		"Red": "#FF0000",
+		"Green": "#008000",
+		"Pink": "#FFC0CB",
+		"Lime Green": "#00FF00",
+		"Yellow": "#FFFF00",
+		"Orange": "#FFA500",
+		"Blue": "#0000FF",
+		"Turquoise": "#40E0D0",
+		"Cyan": "#00FFFF",
+		"Purple": "#9400D3",
+		"Indigo": "#4B0082",
+		"Magenta": "#8B008B",
+		"Gray": "#808080",
+		"White": "#FFFFFF",
+		"Black": "#000000",
+		"Brown": "#8B4513",
+		"Metallic Gray": "#D3D3D3",
+		"Gold": "#FFD700",
+		"Pink Gold": "#F08080",
+		"High-End": "#EAC4FA",
+		"Super": "#F7DC6F",
+		"Normal": "#D6DBDF"
+	},
+	"Special_Items": ["Boomerang :boomerang:",
+		"Bubble :bubble:",
+		"Triple Green Shells :triplegreen:",
+		"Double Bob-ombs :doublebomb:",
+		"Dash Ring :dashRing:",
+		"Giant Banana :giantbanana:",
+		"Heart :heart:",
+		"Fire Flower :fireflower:",
+		"Yoshi's Egg :yoshiegg:",
+		"Birdo's Egg :birdoEgg:",
+		"Triple Mushrooms :triplemushroom:",
+		"Bowser's Shell :bowserShell:",
+		"Banana Barrels :bananabarrels:",
+		"Bob-omb Cannon :bombcannon:",
+		"Hammer :hammers:",
+		"Ice Flower :iceflower:",
+		"Mushroom Cannon :mushroomcannon:",
+		"Lucky Seven :luckyseven:",
+		"Triple Bananas :triplebanana:",
+		"Coin Box :coinbox:"],
+
+	"Boost_Items": ["Banana Plus :banana:",
+		"Green Shell Plus :greenshell:",
+		"Mega Mushroom Plus :megamushroom:",
+		"Coin Plus :coin:",
+		"Lightning Plus :lightning:",
+		"Mushroom Plus :mushroom:",
+		"Red Shell Plus :redshell:",
+		"Blooper Plus :blooper:",
+		"Bob-omb Plus :bob-omb:",
+		"Bullet Bill :bulletbill:",
+		"Super Horn Plus :superhorn:"],
+
+	"Boost_Attribute": ["Jump Boost Plus :JumpBoost:",
+		"Rocket Start Plus :RocketStart:",
+		"Mini-Turbo Plus :MiniTurbo:",
+		"Slipstream Plus :Slipstream:",
+		"Dash Panel Plus :DashPanel:"],
+
+	"Rarities": ["Normal", "Super", "High-End"],
+
+	"NormalShopDrivers": ["Baby Mario", "Baby Peach", "Baby Daisy", "Baby Rosalina", "Dry Bones", "Shy Guy", "Koopa Troopa",
+	 "Morton", "Lemmy", "Iggy", "Larry", "Ludwig", "Roy", "Wendy"],
+
+	"PremiumNormalDrivers": ["Baby Luigi"],
+
+	"SuperShopDrivers": ["Mario", "Peach", "Daisy", "Donkey Kong", "Toad", "Bowser", "Yoshi", "Toadette", "Diddy Kong"],
+
+	"PremiumSuperDrivers": ["Luigi", "Rosalina", "Waluigi", "Wario", "Lakitu", "King Boo", "Bowser Jr.", "Toad (Pit Crew)"],
+
+	"HEShopDrivers": ["Dry Bowser", "Peachette", "Metal Mario"],
+
+	"PremiumHEDrivers": ["Pauline"],
+
+	"NormalShopKarts": ["Landship", "Birthday Girl", "Bullet Blaster", "Mushmellow", "Biddybuggy", "Pipe Frame",
+	 "Cheep Charger", "Koopa Dasher"],
+
+	"PremiumNormalKarts": ["Pipe Buggy"],
+
+	"SuperShopKarts": ["Daytripper", "Mach 8", "Soda Jet", "Barrel Train", "Turbo Yoshi", "Flame Flyer"],
+
+	"PremiumSuperKarts": ["Cloud 9", "Koopa Clown", "Poltergust 4000", "Royale", "Super Blooper"],
+
+	"HEShopKarts": ["B Dasher", "Badwagon"],
+
+	"PremiumHEKarts": ["Circuit Special", "Bumble V"],
+
+	"NormalShopGliders": ["Paper Glider", "Super Glider", "Parachute", "Droplet Glider", "Parafoil", "BBIA Parafoil"],
+
+	"PremiumNormalGliders": ["Piranha Plant Parafoil"],
+
+	"SuperShopGliders": ["Bob-omb Parafoil", "Shell Parachute", "Flower Glider", "Peach Parasol"],
+
+	"PremiumSuperGliders": ["Wario Wing", "Waluigi Wing", "Olipaper Umbrella", "Lightning Olipaper", "BaNaNa Parafoil"],
+
+	"HEShopGliders": ["Gold Glider", "Swooper"],
+
+	"PremiumHEGliders": ["Cloud Glider"],
+
+	"Tickets": ["Item Ticket", "Point-Boost Tickets", "Level Tickets (Replaces max level shop item.)"]
+}
